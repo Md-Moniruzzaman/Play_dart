@@ -18,6 +18,8 @@ class Solution {
 }
 
 void main() {
+  // Example usage
+  // Given a sorted array of integers and a target value,
   Solution solution = Solution();
   List<int> nums = [-1,0,3,5,9,12];
   int target = 9;
